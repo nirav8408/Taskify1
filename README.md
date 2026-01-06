@@ -4,6 +4,11 @@ Taskify is a simple yet powerful **React-based task management application** tha
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Taskify Live:** [Click here to view Taskify](https://taskify1-two.vercel.app/)
+
+
 ## ✨ Features
 
 - ➕ Add new tasks  
@@ -32,7 +37,6 @@ Taskify is a simple yet powerful **React-based task management application** tha
 ```bash
 git clone https://github.com/nirav8408/Taskify1.git
 
-## 🌐 Live Demo
 
-🔗 **Taskify Live:** [https://taskify1-two.vercel.app/](https://taskify1-two.vercel.app/)
+
 
