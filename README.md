@@ -1,21 +1,33 @@
-<<<<<<< HEAD
-# React + Vite
+# 📝 Taskify – Smart Task Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Taskify is a simple yet powerful **React-based task management application** that helps users organize their daily tasks efficiently. It supports adding, editing, completing, filtering, and persisting tasks using **Local Storage**, ensuring tasks are never lost even after refreshing the page.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- ➕ Add new tasks  
+- ✏️ Edit existing tasks  
+- ✅ Mark tasks as completed  
+- ❌ Delete tasks  
+- 🔍 Filter tasks (All / Completed / Pending)  
+- 📊 Task counter  
+- 💾 Persistent data using Local Storage  
+- 🎨 Clean and user-friendly UI  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Taskify
-Taskify is a simple and efficient task management application built using React.js. It allows users to add, edit, delete, and filter tasks with real-time updates. Tasks are stored in localStorage, ensuring data persistence even after page refresh. The app provides a clean UI and helps users organize their daily activities effectively.
->>>>>>> 91006462e7fb8ed640254460afc58930f197277e
+- **Frontend:** React  
+- **Hooks Used:** useState, useEffect  
+- **Styling:** CSS  
+- **Storage:** Browser Local Storage  
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+```bash
+git clone https://github.com/nirav8408/Taskify1.git
